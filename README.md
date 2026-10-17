@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+AmirMohammad+Saman;Junior+Backend+Developer+@+Sobhan+%20+IT;PHP+%2F+Laravel+%7C+Python;Building+reliable+RESTful+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Amir+Saman;Junior+Backend+Developer+@+Sobhan+%20+IT;Building+reliable+RESTful+APIs;Exploring+%20+Semantic+%20+Search!" alt="Typing SVG" />
 
 <p>
   <a href="mailto:Dev.AmirSaman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-I'm **AmirMohammad Saman**, a Junior Backend Developer at **Sobhan IT**, working primarily with **PHP/Laravel** and **Python**. I develop and maintain backend services and RESTful APIs, work with relational and NoSQL databases, and collaborate with my team in an Agile environment. I'm always learning, improving my engineering skills, and looking for opportunities to build useful, reliable software.
+I'm **Amir Saman**, a Junior Backend Developer at **Sobhan IT**, working primarily with **PHP/Laravel** and **Python**. I develop and maintain backend services and RESTful APIs, work with relational and NoSQL databases, and collaborate with my team in an Agile environment. I'm always learning, improving my engineering skills, and looking for opportunities to build useful, reliable software.
 
 ## 🛠️ Tech Stack
 
@@ -44,3 +44,5 @@ I'm **AmirMohammad Saman**, a Junior Backend Developer at **Sobhan IT**, working
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+
