@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Amir+Saman;Junior+Backend+Developer+@+Sobhan+%20+IT;Building+reliable+RESTful+APIs;Exploring+%20+Semantic+%20+Search!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Amir+Saman;Junior+Backend+Developer+@+Sobhan+IT;Building+reliable+RESTful+APIs;Exploring+Semantic+Search!" alt="Typing SVG" />
 
 <p>
   <a href="mailto:Dev.AmirSaman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -11,38 +11,124 @@
 
 ## 💫 About Me
 
-I'm **Amir Saman**, a Junior Backend Developer at **Sobhan IT**, working primarily with **PHP/Laravel** and **Python**. I develop and maintain backend services and RESTful APIs, work with relational and NoSQL databases, and collaborate with my team in an Agile environment. I'm always learning, improving my engineering skills, and looking for opportunities to build useful, reliable software.
+I'm **Amir Saman**, a Junior Backend Developer at **Sobhan IT**, primarily working with **PHP/Laravel** and **Python**.
+
+Working on a large-scale project has given me valuable experience dealing with **large datasets, complex codebases, and architectural decisions**. I've actively contributed to discussions and decisions regarding the architecture of our team's software.
+
+Some of my most significant contributions have been developing a **Semantic Search System** and implementing **Sentiment Analysis** as core components of this larger project.
+
+I enjoy solving backend challenges, designing reliable APIs, working with different database technologies, and continuously improving my software engineering skills.
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php.svg" width="40" height="40" alt="PHP" />
+        <br><p>PHP</p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" width="40" height="40" alt="Python" />
+        <br><p>Python</p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" width="40" height="40" alt="JavaScript" />
+        <br><p>JavaScript</p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/html5.svg" width="40" height="40" alt="HTML5" />
+        <br><p>HTML5</p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/css3.svg" width="40" height="40" alt="CSS3" />
+        <br><p>CSS3</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Frameworks
+### ⚡ Frameworks
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/laravel.svg" width="45" height="45" alt="Laravel" />
+        <br><strong>Laravel</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/django.svg" width="45" height="45" alt="Django" />
+        <br><strong>Django</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Databases & Search
+### 🗄️ Databases & Search
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" width="45" height="45" alt="MySQL" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mariadb.svg" width="45" height="45" alt="MariaDB" />
+        <br><strong>MariaDB</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" width="45" height="45" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" width="45" height="45" alt="Redis" />
+        <br><strong>Redis</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" width="45" height="45" alt="Qdrant" />
+        <br><strong>Qdrant</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### DevOps & Infrastructure
+### 🚀 DevOps & Infrastructure
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
-
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="45" height="45" alt="Git" />
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" width="45" height="45" alt="GitLab" />
+        <br><strong>GitLab</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="45" height="45" alt="Docker" />
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="45" height="45" alt="Linux" />
+        <br><strong>Linux</strong>
+      </td>
+            <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" width="45" height="45" alt="Apache" />
+        <br><strong>Apache</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" width="45" height="45" alt="Nginx" />
+        <br><strong>Nginx</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lite-speed.svg" width="45" height="45" alt="LiteSpeed" />
+        <br><strong>LiteSpeed</strong>
+      </td>
+    </tr>
+  </table>
+</div>
