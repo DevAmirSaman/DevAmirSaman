@@ -57,11 +57,11 @@ I enjoy solving backend challenges, designing reliable APIs, working with differ
     <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/laravel.svg" width="45" height="45" alt="Laravel" />
-        <br><strong>Laravel</strong>
+        <br><p>Laravel</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/django.svg" width="45" height="45" alt="Django" />
-        <br><strong>Django</strong>
+        <br><p>Django</p>
       </td>
     </tr>
   </table>
@@ -74,23 +74,23 @@ I enjoy solving backend challenges, designing reliable APIs, working with differ
     <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" width="45" height="45" alt="MySQL" />
-        <br><strong>MySQL</strong>
+        <br><p>MySQL</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mariadb.svg" width="45" height="45" alt="MariaDB" />
-        <br><strong>MariaDB</strong>
+        <br><p>MariaDB</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" width="45" height="45" alt="MongoDB" />
-        <br><strong>MongoDB</strong>
+        <br><p>MongoDB</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redis.svg" width="45" height="45" alt="Redis" />
-        <br><strong>Redis</strong>
+        <br><p>Redis</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" width="45" height="45" alt="Qdrant" />
-        <br><strong>Qdrant</strong>
+        <br><p>Qdrant</p>
       </td>
     </tr>
   </table>
@@ -103,31 +103,31 @@ I enjoy solving backend challenges, designing reliable APIs, working with differ
     <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="45" height="45" alt="Git" />
-        <br><strong>Git</strong>
+        <br><p>Git</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" width="45" height="45" alt="GitLab" />
-        <br><strong>GitLab</strong>
+        <br><p>GitLab</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="45" height="45" alt="Docker" />
-        <br><strong>Docker</strong>
+        <br><p>Docker</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="45" height="45" alt="Linux" />
-        <br><strong>Linux</strong>
+        <br><p>Linux</p>
       </td>
             <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" width="45" height="45" alt="Apache" />
-        <br><strong>Apache</strong>
+        <br><p>Apache</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" width="45" height="45" alt="Nginx" />
-        <br><strong>Nginx</strong>
+        <br><p>Nginx</p>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lite-speed.svg" width="45" height="45" alt="LiteSpeed" />
-        <br><strong>LiteSpeed</strong>
+        <br><p>LiteSpeed</p>
       </td>
     </tr>
   </table>
