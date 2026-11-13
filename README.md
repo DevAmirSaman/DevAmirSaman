@@ -67,7 +67,7 @@ I enjoy solving backend challenges, designing reliable APIs, working with differ
   </table>
 </div>
 
-### 🗄️ Databases & Search
+### 🗄️ Databases
 
 <div align="left">
   <table>
